@@ -1,0 +1,50 @@
+.main-section{
+    display: inline-block;
+    width: 100%;
+}
+#js-documentation{
+    float: left;
+    width: 25%;
+    
+    border: 3px solid lightgray;
+    border-top: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(169, 169, 169,1);
+}
+#js-documentation li{
+    list-style: none;
+    border-bottom: 3px solid lightgrey;
+    padding-top: 20px;
+    font-size: 25px;
+}
+#main-div{
+    display: inline-block;
+    width: 74.5%;
+}
+#main-doc{
+    width: 100%;
+    background-color: rgb(176, 196, 222, 0.3);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    padding-left: 40px;
+}
+ul{
+    padding-left: 70px;
+}
+h1{
+    padding-left: 30px;
+    font-size: 40px;
+
+}
+
+.code-div{
+    background-color: rgb(255, 0, 0);
+    margin: 0px auto;
+    width: 80%;
+    padding: 20px;
+    border-radius: 5px;
+}
